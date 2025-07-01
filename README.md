@@ -1,14 +1,14 @@
-<h1 align="center">Olá 👋, eu sou Maicon Chaves Marques</h1>
-<h3 align="center">Pesquisador e entusiasta de tecnologia</h3>
+<h1 align="center">Hi 👋, I'm Maicon Chaves Marques</h1>
+<h3 align="center">A computer science student at University of São Paulo (USP-Brazil)</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MaiconChavesMarques&label=Profile%20views&color=0e75b6&style=flat" alt="MaiconChavesMarques" />
 </p>
 
-- 🌱 Atualmente pesquisando temas em ciência e tecnologia  
-- 📫 Como entrar em contato: **maiconchavesmarques@usp.br**
+- 🌱 I’m currently researching topics in data visualization in networks  
+- 📫 How to reach me: **maiconchavesmarques@usp.br**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/maicon-chaves-marques-5478b2226/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
@@ -40,12 +40,10 @@
   </a>
 </p>
 
----
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiconChavesMarques&show_icons=true&locale=pt-br&layout=compact" alt="MaiconChavesMarques" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiconChavesMarques&show_icons=true&locale=en&layout=compact" alt="MaiconChavesMarques" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconChavesMarques&locale=pt-br" alt="MaiconChavesMarques" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconChavesMarques" alt="MaiconChavesMarques" />
 </p>
