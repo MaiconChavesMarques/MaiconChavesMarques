@@ -45,5 +45,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconChavesMarques" alt="MaiconChavesMarques" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaiconChavesMarques&show_icons=true&locale=en" alt="MaiconChavesMarques" />
 </p>
