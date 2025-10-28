@@ -1,104 +1,61 @@
 <h1 align="center">Hi 👋, I'm Maicon Chaves Marques</h1>
-<h3 align="center">A computer science student at University of São Paulo (USP-Brazil)</h3>
+<h3 align="center">A computer science student at the University of São Paulo (USP - Brazil)</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MaiconChavesMarques&label=Profile%20views&color=0e75b6&style=flat" alt="MaiconChavesMarques" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaiconChavesMarques&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently researching topics in data visualization in networks  
+- 🌱 I’m currently researching **data visualization in networks**  
 - 📫 How to reach me: **maiconchavesmarques@usp.br**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/maicon-chaves-marques-5478b2226/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+---
+
+### Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/maicon-chaves-marques-5478b2226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/maicon.chaves222/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/maicon.chaves222/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://orcid.org/0009-0006-0347-7033" target="blank">
-    <img align="center" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" height="30"/>
+  <a href="https://www.youtube.com/@ZeroTecnologia" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://lattes.cnpq.br/7481059287073726" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Lattes-0055A4?style=flat&logoWidth=20&logo=https://raw.githubusercontent.com/arthurtramos/assets/main/lattes.png" alt="Lattes" height="30"/>
+  <a href="https://orcid.org/0009-0006-0347-7033" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="https://lattes.cnpq.br/7481059287073726" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-0055A4?style=for-the-badge&logo=readme&logoColor=white" alt="Lattes"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-  <img 
-      alt="C++" 
-      title="C++"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-  />
-  <img 
-      alt="C" 
-      title="C"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-  />
-  <img 
-      alt="Python" 
-      title="Python"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  <img 
-      alt="JavaScript" 
-      title="JavaScript"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-  <img 
-      alt="TypeScript" 
-      title="TypeScript"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  />
-  <img 
-      alt="HTML" 
-      title="HTML"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-  <img 
-      alt="CSS" 
-      title="CSS"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
-  <img 
-      alt="React" 
-      title="React"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  />
-  <img 
-      alt="NodeJS" 
-      title="NodeJS"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-  />
+### Languages and Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
 </p>
 
-<br/>
+---
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiconChavesMarques&show_icons=true&locale=en&layout=compact" alt="MaiconChavesMarques" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaiconChavesMarques&show_icons=true&locale=en" alt="MaiconChavesMarques" />
+### GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MaiconChavesMarques&show_icons=true&theme=github_dark&hide_border=false&locale=en" 
+    alt="GitHub stats"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiconChavesMarques&show_icons=true&theme=github_dark&layout=compact&locale=en" 
+    alt="Top languages"
+    height="160"
+  />
 </p>
