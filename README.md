@@ -48,14 +48,5 @@
 
 ### GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MaiconChavesMarques&show_icons=true&theme=github_dark&hide_border=false&locale=en" 
-    alt="GitHub stats"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiconChavesMarques&show_icons=true&theme=github_dark&layout=compact&locale=en" 
-    alt="Top languages"
-    height="160"
-  />
+  <img src="https://streak-stats.demolab.com?user=MaiconChavesMarques&theme=highcontrast" />
 </p>
