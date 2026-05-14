@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maicon Chaves Marques</h1>
-<h3 align="center">A computer science student at the University of São Paulo (USP - Brazil)</h3>
+<h3 align="center">Computer Science Student @USP | Software Development Intern @EloGroup</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaiconChavesMarques&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
