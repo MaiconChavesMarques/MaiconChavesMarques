@@ -5,7 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=MaiconChavesMarques&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently researching **data visualization in networks**  
+- 🌱 I’m currently researching **data visualization in networks**
+
+  [**Paper BrStudentMH**](https://sol.sbc.org.br/index.php/dsw/article/view/44060) | [**Paper NLP Models**](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/44175) | [**Best Paper Award**](https://drive.google.com/file/d/1E2s74EMNwmD_c9qKROeOTCcuOKb8HdhU/view?usp=sharing)
+
 - 📫 How to reach me: **maiconchavesmarques@usp.br**
 
 ---
